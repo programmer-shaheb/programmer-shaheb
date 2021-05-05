@@ -24,7 +24,7 @@ Want to become a Software Developer 💸 and an Open Source Contributor ❤️.
   
 ### ✨ Quick Facts
 
-- 🌱 I’m currently learning React-Native and Animation
+- 🌱 I’m currently learning React-Native
 - 🤔 I’m looking for help for my future MERN projects
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 - 📫 How to reach me: abidurrahman471@gmail.com
