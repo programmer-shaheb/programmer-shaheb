@@ -1,4 +1,4 @@
-- Hi there, I'm Abidur Rahman - [website](abidurrahman.netlify.app) 👋
+- Hi there, I'm Abidur Rahman - [website](www.abidurrahman.netlify.app) 👋
 I'm an Engineer, Developer, Designer, and Dreamer!!
 🔭 I’m currently working with React & Node
 🌱 I’m currently learning everything 🤣
